@@ -1,0 +1,12 @@
+E:\Dotnet\StudentManagement\DataBaseLayer\obj\Debug\net6.0\DataBaseLayer.csproj.AssemblyReference.cache
+E:\Dotnet\StudentManagement\DataBaseLayer\obj\Debug\net6.0\DataBaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\StudentManagement\DataBaseLayer\obj\Debug\net6.0\DataBaseLayer.AssemblyInfoInputs.cache
+E:\Dotnet\StudentManagement\DataBaseLayer\obj\Debug\net6.0\DataBaseLayer.AssemblyInfo.cs
+E:\Dotnet\StudentManagement\DataBaseLayer\obj\Debug\net6.0\DataBaseLayer.csproj.CoreCompileInputs.cache
+E:\Dotnet\StudentManagement\DataBaseLayer\bin\Debug\net6.0\DataBaseLayer.deps.json
+E:\Dotnet\StudentManagement\DataBaseLayer\bin\Debug\net6.0\DataBaseLayer.dll
+E:\Dotnet\StudentManagement\DataBaseLayer\bin\Debug\net6.0\DataBaseLayer.pdb
+E:\Dotnet\StudentManagement\DataBaseLayer\obj\Debug\net6.0\DataBaseLayer.dll
+E:\Dotnet\StudentManagement\DataBaseLayer\obj\Debug\net6.0\refint\DataBaseLayer.dll
+E:\Dotnet\StudentManagement\DataBaseLayer\obj\Debug\net6.0\DataBaseLayer.pdb
+E:\Dotnet\StudentManagement\DataBaseLayer\obj\Debug\net6.0\ref\DataBaseLayer.dll
